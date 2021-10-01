@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Marcio Pancheri from Brazil (🇧🇷). I've been working as Java Developer since 2000 and recently I started to study ReactJS and React Native.
+My name is Marcio Pancheri from Brazil (🇧🇷). I've been working as Java Developer since 2000. Three years ago I started to study ReactJS and React Native and more recently, Ruby and Elixir.
 
 In my free time, I like to play games (Dark Souls, Doom, NFS) (🎮), to watch movies (🎞️) and series (📺), to listen to music (🎵), to ride a bike (🚵) and eventually I like to drink a beer (🍺) with my friends.
 
