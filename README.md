@@ -2,7 +2,7 @@
 
 My name is Marcio Pancheri from Brazil (🇧🇷). I've been working as Java Developer since 2000. Three years ago I started to study ReactJS and React Native and more recently, Ruby and Elixir.
 
-In my free time, I like to play games (Dark Souls, Doom, NFS) (🎮), to watch movies (🎞️) and TV shows (📺), to listen to music (🎵), to ride a bike (🚵) and eventually I like to drink a beer (🍺) with my friends.
+In my free time, I like to play games (Dark Souls and Demon's Souls) (🎮), to watch movies (🎞️) and TV shows (📺), to listen music (🎵), to ride a bike (🚵) and eventually I like to drink a beer (🍺) with my friends.
 
 
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=plastic&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/mjpancheri)](https://twitter.com/mjpancheri)
