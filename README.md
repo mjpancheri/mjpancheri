@@ -2,11 +2,30 @@
 
 My name is Marcio Pancheri from Brazil (🇧🇷). I've been working as Java Developer since 2000. Three years ago I started to study ReactJS and React Native and more recently, Ruby and Elixir.
 
-In my free time, I like to play games (Dark Souls and Demon's Souls) (🎮), to watch movies (🎞️) and TV shows (📺), to listen music (🎵), to ride a bike (🚵) and eventually I like to drink a beer (🍺) with my friends.
+In my free time, I like to play games (Dark Souls, Demon's Souls, Elden Ring, and others) (🎮), to watch movies (🎞️) and TV shows (📺), to listen music (🎵), to ride a bike (🚵) and eventually I like to drink a beer (🍺) with my friends.
 
+<div align="center">
+  <a href="https://github.com/mjpancheri">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mjpancheri&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=mjpancheri&langs_count=8&hide=css,scss,html&theme=dark"/>
+  </a>
+</div>
+<div style="display: inline_block"><br>
+  <img align="center" alt="mjpancheri-java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+   <img align="center" alt="agjunior-spring" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg"> 
+  <img align="center" alt="agjunior-aws" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg">
+   <img align="center" alt="agjunior-docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg"> 
+  <img align="center" alt="mjpancheri-elixir" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/elixir/elixir-original.svg">
+  <img align="center" alt="mjpancheri-ruby" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg">
+  <img align="center" alt="mjpancheri-ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+</div>
+
+##
 
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=plastic&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/mjpancheri)](https://twitter.com/mjpancheri)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=plastic&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marcio-pancheri-902a7923)](https://www.linkedin.com/in/marcio-pancheri-902a7923)
+
+![Snake animation](https://github.com/mjpancheri/mjpancheri/blob/output/github-contribution-grid-snake.svg)
 
 
 <!--
