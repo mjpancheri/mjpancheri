@@ -10,14 +10,16 @@ In my free time, I like to play games (Dark Souls, Demon's Souls, Elden Ring, an
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=mjpancheri&langs_count=8&hide=css,scss,html&theme=dark"/>
   </a>
 </div>
-<div style="display: inline_block"><br>
-  <img align="center" alt="mjpancheri-java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-   <img align="center" alt="agjunior-spring" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg"> 
-  <img align="center" alt="agjunior-aws" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg">
-   <img align="center" alt="agjunior-docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg"> 
-  <img align="center" alt="mjpancheri-elixir" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/elixir/elixir-original.svg">
-  <img align="center" alt="mjpancheri-ruby" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg">
-  <img align="center" alt="mjpancheri-ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+<div align="center">
+  <div style="display: inline_block"><br>
+    <img align="center" alt="mjpancheri-java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+     <img align="center" alt="agjunior-spring" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg"> 
+    <img align="center" alt="agjunior-aws" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg">
+     <img align="center" alt="agjunior-docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg"> 
+    <img align="center" alt="mjpancheri-elixir" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/elixir/elixir-original.svg">
+    <img align="center" alt="mjpancheri-ruby" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg">
+    <img align="center" alt="mjpancheri-ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  </div>
 </div>
 
 ##
