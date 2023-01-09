@@ -25,9 +25,7 @@ In my free time, I like to play games (Dark Souls, Demon's Souls, Elden Ring, an
 ##
 
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=plastic&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/mjpancheri)](https://twitter.com/mjpancheri)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=plastic&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marcio-pancheri-902a7923)](https://www.linkedin.com/in/marcio-pancheri-902a7923)
-
-![Snake animation](https://github.com/mjpancheri/mjpancheri/blob/output/github-contribution-grid-snake.svg)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=plastic&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mjpancheri)](https://www.linkedin.com/in/mjpancheri)
 
 
 <!--
