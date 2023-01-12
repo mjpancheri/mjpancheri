@@ -4,12 +4,12 @@ My name is Marcio Pancheri from Brazil (🇧🇷). I've been working as Java Dev
 
 In my free time, I like to play games (Dark Souls, Demon's Souls, Elden Ring, and others) (🎮), to watch movies (🎞️) and TV shows (📺), to listen music (🎵), to ride a bike (🚵) and eventually I like to drink a beer (🍺) with my friends.
 
-<div align="center">
+<!-- div align="center">
   <a href="https://github.com/mjpancheri">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mjpancheri&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=mjpancheri&langs_count=8&hide=css,scss,html&theme=dark"/>
   </a>
-</div>
+</div -->
 <div align="center">
   <div style="display: inline_block"><br>
     <img align="center" alt="mjpancheri-java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
